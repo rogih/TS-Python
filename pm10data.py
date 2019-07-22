@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 18 10:24:07 2019
 Univariate and multivariate time series analysis with Python
 """
 
